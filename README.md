@@ -1,28 +1,51 @@
 # README
 
-Technologies
-PostgreSQL
-devise
+#Technologies
+- Ruby on Rails
+- PostgreSQL
+- Devise
+- Paperclip for image display
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#User Stories
 
-Things you may want to cover:
+```
+As a user
+so I can use the app
+I would like to sign up for an account
+```
 
-* Ruby version - 2.6.0
+```
+As a user
+so I can use the app again
+I would like to be able to login and logout
+```
 
-* System dependencies
+```
+As a user
+so I don't have to use my real name
+I would like to display a username
+```
 
-* Configuration
+```
+As a user
+so I can share my photos
+I would like to be able to post photos
+```
 
-* Database creation
+```
+As a user
+so I can share more information
+I would like to be able to add a title and a description to a photo
+```
 
-* Database initialization
+```
+As a user
+so I can show my appreciation
+I would like to be able to 'like' another persons photo
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+As a user
+so I can communicate with other users
+I would like to be able to leave a comment on a photo
+```
