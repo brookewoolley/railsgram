@@ -52,4 +52,4 @@ I would like to be able to leave a comment on a photo
 
 # DB diagram
 
-![Diagram](https://github.com/brookewoolley/railsgram/dbdiagram.png)
+![Diagram](https://github.com/brookewoolley/railsgram/blob/master/dbdiagram.png)
