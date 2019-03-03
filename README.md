@@ -49,3 +49,7 @@ As a user
 so I can communicate with other users
 I would like to be able to leave a comment on a photo
 ```
+
+# DB diagram
+
+![Diagram](https://github.com/brookewoolley/railsgram/dbdiagram.png)
